@@ -35,10 +35,11 @@
 ### 📫 Cara Menghubungi Saya
 
 <p align="center">
-  <a href="mailto:emailanda@gmail.com">
+  <a href="mailto:kamal.omel16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/namaanda" target="_blank">
+   <a href="https://www.linkedin.com/in/muhammad-kamal-1b9a31299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
